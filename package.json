@@ -1,11 +1,12 @@
 {
   "name": "git-server",
   "version": "0.2.1",
-  "description": "A simple, multi-tenant git server written in NodeJS",
-  "author": "Quinton Pike <@quinton.pike>",
+  "description": "A simple, multi-tenant git server written in NodeJS using DIREKTSPEED Server - Framework",
+  "author": "Original: Quinton Pike 2013 <@quinton.pike>, New: Frank Lemanschik 2016",
   "contributors": [
     "Quinton Pike <qrpike@gmail.com>",
-    "Justas Brazauskas <brazauskasjustas@gmail.con>"
+    "Justas Brazauskas <brazauskasjustas@gmail.con>",
+    "Frank Lemanschik <frank@dspeed.eu"
   ],
   "dependencies": {
     "async": "*",
@@ -17,6 +18,9 @@
     "git-emit": "^0.0.0",
     "event-proxy": "^0.0.1",
     "connect": "^2.9.0"
+    "event-proxy": "0.0.1",
+    "fs-extra": "^0.30.0",
+    "rmdir": "^1.2.0"
   },
   "devDependencies": {
     "expect.js": "^0.2.0",
