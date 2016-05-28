@@ -10,20 +10,20 @@
   "dependencies": {
     "async": "*",
     "mkdirp": "*",
-    "cli-table": "*",
+    "cli-table": "0.3.1",
     "pushover": "*",
     "cli-listener": "*",
     "commander": "*",
-    "git-emit": "0.0.0",
-    "event-proxy": "0.0.1",
-    "connect": "~2.9.0"
+    "git-emit": "^0.0.0",
+    "event-proxy": "^0.0.1",
+    "connect": "^2.9.0"
   },
   "devDependencies": {
-    "expect.js": "~0.2.0",
-    "mocha": "~1.13.0",
-    "mocha-lcov-reporter": "0.0.1",
-    "coveralls": "~2.3.0",
-    "blanket": "~1.1.5"
+    "expect.js": "^0.2.0",
+    "mocha": "^1.13.0",
+    "mocha-lcov-reporter": "^0.0.1",
+    "coveralls": "^2.3.0",
+    "blanket": "^1.1.5"
   },
   "scripts": {
     "test": "make test",
