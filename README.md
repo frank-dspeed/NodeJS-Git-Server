@@ -1,4 +1,10 @@
-#NodeJS Git Server
+#NodeJS Git Server 
+## Status: Maintained!
+
+
+## Current Maintance import issus and solve them 
+from Forked from  github.com stackdot/NodeJS-Git-Server
+neex cherry pic from the other developers maybe
 
 ![image](https://raw.github.com/qrpike/NodeJS-Git-Server/master/header.png)
 [![Build Status](https://travis-ci.org/stackdot/NodeJS-Git-Server.png?branch=master)](https://travis-ci.org/stackdot/NodeJS-Git-Server) [![Coverage Status](https://coveralls.io/repos/qrpike/NodeJS-Git-Server/badge.png)](https://coveralls.io/r/qrpike/NodeJS-Git-Server)
